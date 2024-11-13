@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "edad": 25,
+      "capacidad": "Discapacidad Visual",
+      "email": "juan.perez@example.com"
+    },
+    {
+      "id": "2",
+      "nombre": "María García",
+      "edad": 30,
+      "capacidad": "Discapacidad Auditiva",
+      "email": "maria.garcia@example.com"
+    },
+    {
+      "id": "3",
+      "nombre": "Carlos Sánchez",
+      "edad": 28,
+      "capacidad": "Discapacidad Motriz",
+      "email": "carlos.sanchez@example.com"
+    }
+  ]
+  
